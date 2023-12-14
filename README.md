@@ -1,2 +1,2 @@
-# Studentes-Performance
-Esse Repositório consiste em mais um dos projetos de busca por conhecimento no campo de análise de dados. Sendo assim, utilizarei de uma base de dados que consta acerca da performance dos estudantes em um exame, disponibilizado pela plataforma kaggle.
+# Projetos-de-An-lise-Explorat-ria-
+Esse repositório tem como objetivo registrar os estudos de análise exploratória feitos por mim, buscando o desenvolvimento pessoal em relação à utilização de métricas de análise de dados.
